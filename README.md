@@ -11,8 +11,8 @@ pip install notebook
 
 
 ### Adding environmental variables
-To run this program, add these environmental variables to your ~/.bashrc or ~/.bash_profile
-Alternatively, just type in the username and password in Main.ipynb later after opening jupyter notebook.
+To run this program, add these environmental variables to your ~/.bashrc or ~/.bash_profile  
+Alternatively, type in the username and password in Main.ipynb later after opening jupyter notebook.
 ```
 export OAC_SITE_URL=""
 export OAC_USERNAME=""
