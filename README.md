@@ -4,9 +4,10 @@
 
 
 ### Installing Jupyter notebook
-You must run this program with jupyter notebook. To install, run
+You must run this program with jupyter notebook and selenium. To install, run
 ```
 pip install notebook
+pip install selenium
 ```
 
 
